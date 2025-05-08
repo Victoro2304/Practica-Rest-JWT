@@ -36,11 +36,11 @@ public class Cliente implements Serializable {
         this.id = id;
     }
 
-    public String getNombre() {
+    public String getUser() {
         return user;
     }
 
-    public void setNombre(String user) {
+    public void setUser(String user) {
         this.user = user;
     }
 
