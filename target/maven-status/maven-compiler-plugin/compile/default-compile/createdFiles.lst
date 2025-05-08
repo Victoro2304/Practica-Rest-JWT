@@ -1,0 +1,4 @@
+Application\ClienteApplicationConfig.class
+entidades\Cliente.class
+filtros\FiltroJWT.class
+resources\ClienteResource.class
